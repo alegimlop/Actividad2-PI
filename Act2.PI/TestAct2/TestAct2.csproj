@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Act2.PI\Act2.PI.csproj" />
+    <ProjectReference Include="..\Act2.PI\Act2_PI.csproj" />
   </ItemGroup>
 
   <ItemGroup>
